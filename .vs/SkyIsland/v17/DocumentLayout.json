@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\coleg\\SkyIsland\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EA5B57C5-622B-B261-06F4-9DF424888D2C}|Assembly-CSharp.csproj|c:\\users\\coleg\\skyisland\\assets\\scripts\\clickedmovment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EA5B57C5-622B-B261-06F4-9DF424888D2C}|Assembly-CSharp.csproj|c:\\users\\coleg\\skyisland\\assets\\scripts\\collectresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA5B57C5-622B-B261-06F4-9DF424888D2C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collectresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA5B57C5-622B-B261-06F4-9DF424888D2C}|Assembly-CSharp.csproj|C:\\Users\\coleg\\SkyIsland\\assets\\scripts\\resourcenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA5B57C5-622B-B261-06F4-9DF424888D2C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\resourcenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA5B57C5-622B-B261-06F4-9DF424888D2C}|Assembly-CSharp.csproj|C:\\Users\\coleg\\SkyIsland\\assets\\scripts\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA5B57C5-622B-B261-06F4-9DF424888D2C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA5B57C5-622B-B261-06F4-9DF424888D2C}|Assembly-CSharp.csproj|C:\\Users\\coleg\\SkyIsland\\assets\\scripts\\clickedmovment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA5B57C5-622B-B261-06F4-9DF424888D2C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\clickedmovment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA5B57C5-622B-B261-06F4-9DF424888D2C}|Assembly-CSharp.csproj|c:\\users\\coleg\\skyisland\\assets\\scripts\\clicktopos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA5B57C5-622B-B261-06F4-9DF424888D2C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\clicktopos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA5B57C5-622B-B261-06F4-9DF424888D2C}|Assembly-CSharp.csproj|c:\\users\\coleg\\skyisland\\assets\\scripts\\tilemaptracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA5B57C5-622B-B261-06F4-9DF424888D2C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tilemaptracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\coleg\\SkyIsland\\Assets\\ResourceNode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\ResourceNode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\coleg\\SkyIsland\\Assets\\Inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "ClickedMovment.cs",
               "DocumentMoniker": "C:\\Users\\coleg\\SkyIsland\\Assets\\Scripts\\ClickedMovment.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ClickedMovment.cs",
@@ -42,57 +38,44 @@
               "RelativeToolTip": "Assets\\Scripts\\ClickedMovment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T04:13:16.277Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-06T02:06:23.099Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "TileMapTracker.cs",
-              "DocumentMoniker": "C:\\Users\\coleg\\SkyIsland\\Assets\\Scripts\\TileMapTracker.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\TileMapTracker.cs",
-              "ToolTip": "C:\\Users\\coleg\\SkyIsland\\Assets\\Scripts\\TileMapTracker.cs",
-              "RelativeToolTip": "Assets\\Scripts\\TileMapTracker.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACgAAAARAAAAAAAAAA==",
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\coleg\\SkyIsland\\Assets\\Scripts\\Inventory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Inventory.cs",
+              "ToolTip": "C:\\Users\\coleg\\SkyIsland\\Assets\\Scripts\\Inventory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Inventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T04:11:24.185Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-06T02:02:44.135Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ClickToPos.cs",
-              "DocumentMoniker": "C:\\Users\\coleg\\SkyIsland\\Assets\\Scripts\\ClickToPos.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ClickToPos.cs",
-              "ToolTip": "C:\\Users\\coleg\\SkyIsland\\Assets\\Scripts\\ClickToPos.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ClickToPos.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwB0AAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T04:11:05.747Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Inventory.cs",
-              "DocumentMoniker": "C:\\Users\\coleg\\SkyIsland\\Assets\\Inventory.cs",
-              "RelativeDocumentMoniker": "Assets\\Inventory.cs",
-              "ToolTip": "C:\\Users\\coleg\\SkyIsland\\Assets\\Inventory.cs",
-              "RelativeToolTip": "Assets\\Inventory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T20:10:16.646Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "ResourceNode.cs",
-              "DocumentMoniker": "C:\\Users\\coleg\\SkyIsland\\Assets\\ResourceNode.cs",
-              "RelativeDocumentMoniker": "Assets\\ResourceNode.cs",
-              "ToolTip": "C:\\Users\\coleg\\SkyIsland\\Assets\\ResourceNode.cs",
-              "RelativeToolTip": "Assets\\ResourceNode.cs",
+              "DocumentMoniker": "C:\\Users\\coleg\\SkyIsland\\Assets\\Scripts\\ResourceNode.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ResourceNode.cs",
+              "ToolTip": "C:\\Users\\coleg\\SkyIsland\\Assets\\Scripts\\ResourceNode.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ResourceNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T20:09:15.237Z"
+              "WhenOpened": "2025-08-06T02:02:40.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CollectResource.cs",
+              "DocumentMoniker": "C:\\Users\\coleg\\SkyIsland\\Assets\\Scripts\\CollectResource.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CollectResource.cs",
+              "ToolTip": "C:\\Users\\coleg\\SkyIsland\\Assets\\Scripts\\CollectResource.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CollectResource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T01:59:29.564Z",
+              "EditorCaption": ""
             }
           ]
         }
