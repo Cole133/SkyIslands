@@ -1,0 +1,628 @@
+fileFormatVersion: 2
+guid: 529eb5ca8fbb2214db0ab16dbf711393
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -714214199292535710
+    second: Spruce Tree - GREEN - Spritesheet_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Spruce Tree - GREEN - Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 51
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26cd0a548f99616f0800000000000000
+      internalID: -714214199292535710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spruce Tree - GREEN - Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 51
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f46136c277ae174893ab5332bb387de
+      internalID: -1204265998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spruce Tree - GREEN - Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 51
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c8426ec78cf9c4f955afc0867eae39
+      internalID: -1668518744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spruce Tree - GREEN - Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 0
+        width: 51
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ce344408f1eba4f888c42850f07693
+      internalID: 1137367751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spruce Tree - GREEN - Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 51
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f09e2f43ea8cf40a82e2424ab973ed
+      internalID: -1087549622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spruce Tree - GREEN - Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 0
+        width: 51
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affdf41cfdb6f3a4ea236ba57974e662
+      internalID: -351341204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spruce Tree - GREEN - Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 0
+        width: 51
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09180d31f3a6b194a92c0e042d84ce66
+      internalID: 501562935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spruce Tree - GREEN - Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 0
+        width: 51
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1779eb7abe3924ebe15a822f4a4f3d
+      internalID: -1247344090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spruce Tree - GREEN - Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 0
+        width: 51
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49bc8608a765e32459df4e0066b96aac
+      internalID: -1985674447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spruce Tree - GREEN - Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 0
+        width: 51
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d80947530563b4b9ddc7b41e6f2afe
+      internalID: -1606660188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spruce Tree - GREEN - Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 0
+        width: 51
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3415c3a947b2146b6cca6af54d3352
+      internalID: -157327876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spruce Tree - GREEN - Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 0
+        width: 51
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1caf5e7f83b9190419da09b18981df4b
+      internalID: 411199992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spruce Tree - GREEN - Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 0
+        width: 51
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8526e52cc8ab4da4a9fd696a082edb76
+      internalID: 1350946918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spruce Tree - GREEN - Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 0
+        width: 51
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f51d7f50f9e92240a5ee0a100523f26
+      internalID: 256161480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spruce Tree - GREEN - Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 0
+        width: 51
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f134005e8367b9f47a82bce9673906f1
+      internalID: -1067453410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spruce Tree - GREEN - Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 0
+        width: 51
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54003d9e00370d4cbd1fed715d62cbc
+      internalID: 551103135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spruce Tree - GREEN - Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 0
+        width: 51
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f3b61d22a3f2f4897985d8700dd348
+      internalID: -8446795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spruce Tree - GREEN - Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 0
+        width: 51
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c3cecbcfc1cbf4d9404e7a0d9ab785
+      internalID: -178092626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spruce Tree - GREEN - Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 0
+        width: 51
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abac9a808f30c44ebb7d42ee7a92e4e
+      internalID: 2126438131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spruce Tree - GREEN - Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 0
+        width: 51
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6cdf5733b6a16f4ea4bb1e9b8a4aec0
+      internalID: -661191023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spruce Tree - GREEN - Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 0
+        width: 51
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c044c4d00af6f44c8fe3a734b20306e
+      internalID: 783712000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Spruce Tree - GREEN - Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 0
+        width: 51
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b2a9ec328a79e47be0b9010f31acee
+      internalID: 1535927308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fac0bb815547ffc4d855f3f4f49182d8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":51.0,"y":87.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Spruce Tree - GREEN - Spritesheet_0: -714214199292535710
+      Spruce Tree - GREEN - Spritesheet_1: -1204265998
+      Spruce Tree - GREEN - Spritesheet_10: -157327876
+      Spruce Tree - GREEN - Spritesheet_11: 411199992
+      Spruce Tree - GREEN - Spritesheet_12: 1350946918
+      Spruce Tree - GREEN - Spritesheet_13: 256161480
+      Spruce Tree - GREEN - Spritesheet_14: -1067453410
+      Spruce Tree - GREEN - Spritesheet_15: 551103135
+      Spruce Tree - GREEN - Spritesheet_16: -8446795
+      Spruce Tree - GREEN - Spritesheet_17: -178092626
+      Spruce Tree - GREEN - Spritesheet_18: 2126438131
+      Spruce Tree - GREEN - Spritesheet_19: -661191023
+      Spruce Tree - GREEN - Spritesheet_2: -1668518744
+      Spruce Tree - GREEN - Spritesheet_20: 783712000
+      Spruce Tree - GREEN - Spritesheet_21: 1535927308
+      Spruce Tree - GREEN - Spritesheet_3: 1137367751
+      Spruce Tree - GREEN - Spritesheet_4: -1087549622
+      Spruce Tree - GREEN - Spritesheet_5: -351341204
+      Spruce Tree - GREEN - Spritesheet_6: 501562935
+      Spruce Tree - GREEN - Spritesheet_7: -1247344090
+      Spruce Tree - GREEN - Spritesheet_8: -1985674447
+      Spruce Tree - GREEN - Spritesheet_9: -1606660188
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
