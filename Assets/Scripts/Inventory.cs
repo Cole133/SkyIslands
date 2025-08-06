@@ -3,7 +3,7 @@ using UnityEngine;
 
 public class Inventory : MonoBehaviour
 {
-    private Dictionary<Item, int> items = new Dictionary<Item, int>();
+    public Dictionary<Item, int> items = new Dictionary<Item, int>();
 
     public void AddItem(Item item, int amount)
     {

@@ -7,15 +7,15 @@
       "RelativeMoniker": "D:0:0:{EA5B57C5-622B-B261-06F4-9DF424888D2C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collectresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA5B57C5-622B-B261-06F4-9DF424888D2C}|Assembly-CSharp.csproj|c:\\users\\coleg\\skyisland\\assets\\scripts\\resourcenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EA5B57C5-622B-B261-06F4-9DF424888D2C}|Assembly-CSharp.csproj|C:\\Users\\coleg\\SkyIsland\\assets\\scripts\\resourcenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA5B57C5-622B-B261-06F4-9DF424888D2C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\resourcenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA5B57C5-622B-B261-06F4-9DF424888D2C}|Assembly-CSharp.csproj|c:\\users\\coleg\\skyisland\\assets\\scripts\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EA5B57C5-622B-B261-06F4-9DF424888D2C}|Assembly-CSharp.csproj|C:\\Users\\coleg\\SkyIsland\\assets\\scripts\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA5B57C5-622B-B261-06F4-9DF424888D2C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA5B57C5-622B-B261-06F4-9DF424888D2C}|Assembly-CSharp.csproj|c:\\users\\coleg\\skyisland\\assets\\scripts\\clickedmovment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EA5B57C5-622B-B261-06F4-9DF424888D2C}|Assembly-CSharp.csproj|C:\\Users\\coleg\\SkyIsland\\assets\\scripts\\clickedmovment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA5B57C5-622B-B261-06F4-9DF424888D2C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\clickedmovment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,8 +38,7 @@
               "RelativeToolTip": "Assets\\Scripts\\ClickedMovment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T02:06:23.099Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-06T02:06:23.099Z"
             },
             {
               "$type": "Document",
@@ -51,8 +50,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Inventory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T02:02:44.135Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-06T02:02:44.135Z"
             },
             {
               "$type": "Document",
@@ -64,8 +62,7 @@
               "RelativeToolTip": "Assets\\Scripts\\ResourceNode.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T02:02:40.395Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-06T02:02:40.395Z"
             },
             {
               "$type": "Document",
