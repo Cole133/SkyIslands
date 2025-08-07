@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{EA5B57C5-622B-B261-06F4-9DF424888D2C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA5B57C5-622B-B261-06F4-9DF424888D2C}|Assembly-CSharp.csproj|c:\\users\\coleg\\skyisland\\assets\\scripts\\collectresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EA5B57C5-622B-B261-06F4-9DF424888D2C}|Assembly-CSharp.csproj|C:\\Users\\coleg\\SkyIsland\\assets\\scripts\\collectresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA5B57C5-622B-B261-06F4-9DF424888D2C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collectresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\InventoryUI.cs",
               "ToolTip": "C:\\Users\\coleg\\SkyIsland\\Assets\\Scripts\\InventoryUI.cs",
               "RelativeToolTip": "Assets\\Scripts\\InventoryUI.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-06T15:50:04.94Z",
               "EditorCaption": ""
@@ -67,8 +67,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Inventory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T02:02:44.135Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-06T02:02:44.135Z"
             },
             {
               "$type": "Document",
@@ -92,8 +91,7 @@
               "RelativeToolTip": "Assets\\Scripts\\CollectResource.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T01:59:29.564Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-06T01:59:29.564Z"
             }
           ]
         }

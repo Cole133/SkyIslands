@@ -23,9 +23,19 @@ public class InventoryUI : MonoBehaviour
             inventoryPanel.SetActive(isOpen);
         }
 
-        foreach (var item in playerInventory.items)
+        if (isOpen)
         {
-            inventoryText.text += $"{item.Key.itemName}: {item.Value}\n";
+            inventoryText.text = "Inventory:\n";
+            foreach (var item in playerInventory.items)
+            {
+                inventoryText.text += $"{item.Key.itemName}: {item.Value}\n";
+            }
         }
+        else
+        {
+            inventoryText.text = "Inventory:\n";
+        }
+
+        
     }
 }
