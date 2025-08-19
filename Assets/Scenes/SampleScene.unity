@@ -694,6 +694,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   dropItem: {fileID: 11400000, guid: 1d8d933d52a3cbb449086c4058a3e533, type: 2}
+  dropItem2: {fileID: 11400000, guid: 0274da8c7dcedbd48935fa885440cc9c, type: 2}
   dropAmount: 1
 --- !u!4 &416948095
 Transform:

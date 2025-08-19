@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\coleg\\SkyIsland\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EA5B57C5-622B-B261-06F4-9DF424888D2C}|Assembly-CSharp.csproj|c:\\users\\coleg\\skyisland\\assets\\scripts\\inventoryui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA5B57C5-622B-B261-06F4-9DF424888D2C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventoryui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA5B57C5-622B-B261-06F4-9DF424888D2C}|Assembly-CSharp.csproj|C:\\Users\\coleg\\SkyIsland\\assets\\scripts\\resourcenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA5B57C5-622B-B261-06F4-9DF424888D2C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\resourcenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EA5B57C5-622B-B261-06F4-9DF424888D2C}|Assembly-CSharp.csproj|C:\\Users\\coleg\\SkyIsland\\assets\\scripts\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA5B57C5-622B-B261-06F4-9DF424888D2C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA5B57C5-622B-B261-06F4-9DF424888D2C}|Assembly-CSharp.csproj|C:\\Users\\coleg\\SkyIsland\\assets\\scripts\\collectresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA5B57C5-622B-B261-06F4-9DF424888D2C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collectresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA5B57C5-622B-B261-06F4-9DF424888D2C}|Assembly-CSharp.csproj|c:\\users\\coleg\\skyisland\\assets\\scripts\\inventoryui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA5B57C5-622B-B261-06F4-9DF424888D2C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventoryui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA5B57C5-622B-B261-06F4-9DF424888D2C}|Assembly-CSharp.csproj|C:\\Users\\coleg\\SkyIsland\\assets\\scripts\\resourcenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA5B57C5-622B-B261-06F4-9DF424888D2C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\resourcenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA5B57C5-622B-B261-06F4-9DF424888D2C}|Assembly-CSharp.csproj|C:\\Users\\coleg\\SkyIsland\\assets\\scripts\\collectresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA5B57C5-622B-B261-06F4-9DF424888D2C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\collectresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EA5B57C5-622B-B261-06F4-9DF424888D2C}|Assembly-CSharp.csproj|C:\\Users\\coleg\\SkyIsland\\assets\\scripts\\clickedmovment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,17 +30,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "InventoryUI.cs",
               "DocumentMoniker": "C:\\Users\\coleg\\SkyIsland\\Assets\\Scripts\\InventoryUI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\InventoryUI.cs",
               "ToolTip": "C:\\Users\\coleg\\SkyIsland\\Assets\\Scripts\\InventoryUI.cs",
               "RelativeToolTip": "Assets\\Scripts\\InventoryUI.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-06T15:50:04.94Z",
               "EditorCaption": ""
@@ -67,23 +67,25 @@
               "RelativeToolTip": "Assets\\Scripts\\Inventory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T02:02:44.135Z"
+              "WhenOpened": "2025-08-06T02:02:44.135Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "ResourceNode.cs",
               "DocumentMoniker": "C:\\Users\\coleg\\SkyIsland\\Assets\\Scripts\\ResourceNode.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ResourceNode.cs",
               "ToolTip": "C:\\Users\\coleg\\SkyIsland\\Assets\\Scripts\\ResourceNode.cs",
               "RelativeToolTip": "Assets\\Scripts\\ResourceNode.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-06T02:02:40.395Z"
+              "WhenOpened": "2025-08-06T02:02:40.395Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CollectResource.cs",
               "DocumentMoniker": "C:\\Users\\coleg\\SkyIsland\\Assets\\Scripts\\CollectResource.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CollectResource.cs",
